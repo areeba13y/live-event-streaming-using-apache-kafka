@@ -100,4 +100,3 @@ Alerts are saved to `alerts.json`:
 
 ---
 
-## 📁 Project Structure
